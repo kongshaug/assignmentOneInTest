@@ -1,5 +1,5 @@
 <h3 align="center">assignmentOneInTest</h3>
-## 1.1	SHOOTING A woman fired a shot at a man with her gun, but the man did not die. List the possible reasons for the man not dying.
+##  1.1	SHOOTING A woman fired a shot at a man with her gun, but the man did not die. List the possible reasons for the man not dying.
 *	Hun missed
 *	Hun ramte ikke et fatalt organ
 *	Manden fik en hurtig behandling og blev derfor reddet
@@ -8,7 +8,7 @@
 *	Han var allerede død
 
 
-## 1.2	ALIEN An alien meets you and it asks you to teach it how to brush its teeth. Assume that the alien has teeth exactly like yours, and is as smart as you, but it needs a clear step-bystep instruction. List the steps. Be as detailed as you can. (Example: Hold the toothpaste with your left hand; turn the cap anti-clockwise)
+##  1.2	ALIEN An alien meets you and it asks you to teach it how to brush its teeth. Assume that the alien has teeth exactly like yours, and is as smart as you, but it needs a clear step-bystep instruction. List the steps. Be as detailed as you can. (Example: Hold the toothpaste with your left hand; turn the cap anti-clockwise)
 *	Grap the toothpast, with one hand, turn the cap anticlockwise with your thumb and index finger on the other hand until it comes off
 *	Face the opening of the toothpast directly over your toothbrush where the hairs are on the  toothbrush and squeeze the toothpaste until between 0,5 -1 cm of toothpaste have come out onto the tooth brush.
 *	With your hand holding the toothbrush grap the cap of the toothpaste once again and turn the cap clockwise with your thumb and index finger until it cant go any further.
