@@ -1,4 +1,5 @@
 <h3 align="center">assignmentOneInTest</h3>
+-
 ## 1. SHOOTING A woman fired a shot at a man with her gun, but the man did not die. List the possible reasons for the man not dying.
 *	Hun missed
 *	Hun ramte ikke et fatalt organ
