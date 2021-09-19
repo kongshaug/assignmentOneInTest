@@ -31,13 +31,13 @@
 
 
 
-3 GIVE YOUR THOUGHTS ON TDD
-• What was positive and good about using TDD?
+## 3 GIVE YOUR THOUGHTS ON TDD
+* What was positive and good about using TDD?
 	TDD hjælper til at reflektere over funktionaliteten af hvad metoden man vil udvikle. Hvis det er svært at udvikle en test kan det være fordi metoden man laver er for kompliceret og skal brydes op, det er en fordel at finde ud af dette før man går i gang med at skrive selve koden.
 Det er en god oplevelse, når man er færdig med koden at kunne test om den virker med det samme, og rette eventuelle fejl med det samme.
-• What was annoying or difficult?
+* What was annoying or difficult?
 	Det føles kontra intuitivt at lave testen først. Jeg får lyst til at skrive koden først. Det kan være den samme oplevelse på en arbejdsplads at man gerne vil løse en opgave hurtigt i stedet for at bruge sin tid op tests.
-• What surprised you?
+* What surprised you?
 	Det er en fed oplevelse at skrive koden færdig og kunne køre tests med det samme. Der er et godt flow i formatet af at skrive, test og omskrive.
-• Did TDD help you write some tests you wouldn’t otherwise have thought of? 
+* Did TDD help you write some tests you wouldn’t otherwise have thought of? 
 Det er lidt svært at sige om jeg havde skrevet testede anderledes hvis jeg havde lavet koden første og derefter tests. Så det ved jeg ikke.
